@@ -1,2 +1,0 @@
-# longestWord
-Created with CodeSandbox
